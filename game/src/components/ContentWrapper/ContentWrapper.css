@@ -1,0 +1,14 @@
+.content-wrapper {
+  background: rgb(221, 218, 218);
+  background-image: url("http://kokaku-a.jp/movie/img/download/wall01_PC_1920x1080.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
